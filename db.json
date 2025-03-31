@@ -1,0 +1,67 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Robert",
+			"sirname":"Visoiu",
+			"photo_url":"https://media.istockphoto.com/id/1477583639/vector/user-profile-icon-vector-avatar-or-person-icon-profile-picture-portrait-symbol-vector.jpg?s=612x612&w=0&k=20&c=OWGIPPkZIWLPvnQS14ZSyHMoGtVTn1zS8cAgLy1Uh24=",
+			"balance":1500
+		},
+		{
+			"id":2,
+			"name":"Danut",
+			"sirname":"Alexander",
+			"photo_url":"https://thumbs.dreamstime.com/b/instagram-people-profile-sets-user-blue-icon-abstract-cloud-background-148631326.jpg",
+			"balance":2000
+		},
+		{
+			"id":3,
+			"name":"Stefan",
+			"sirname":"Slatin",
+			"photo_url":"https://static-00.iconduck.com/assets.00/person-icon-512x483-d7q8hqj4.png",
+			"balance":1000
+		},
+	],
+	"products":[
+		{
+			"id":1,
+			"name":"Scream 5s",
+			"description":"	Emitator de sunet 1.5g",
+			"price":50,
+			"author_id":1,
+			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/11/petarde-scream-5s-01.jpeg",
+		},
+		{
+			"id":2,
+			"name":"Exploziv Show",
+			"description":"Emitator de sunet 2g",
+			"price":50,
+			"author_id":1,
+			"photo_url":"https://landoffire.ro/wp-content/uploads/2024/09/IMG_5837.jpg",
+		},
+		{
+			"id":3,
+			"name":"Vampire bang 2",
+			"description":"Emitator de sunet",
+			"price":25,
+			"author_id":1,
+			"photo_url":"https://pyroking.ro/wp-content/uploads/2024/09/vampire-10.png",
+		},
+		{
+			"id":4,
+			"name":"Fs 5",
+			"description":"Emitator de sunet 2g",
+			"price":40,
+			"author_id":1,
+			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/02/FS-5-1.png",
+		},
+		{
+			"id":5,
+			"name":"Super troll",
+			"description":"Emitator de sunet",
+			"price":40,
+			"author_id":1,
+			"photo_url":"https://gomagcdn.ro/domains2/e-artificii.ro/files/product/original/petarde-super-troll-820117.jpg",
+		},
+	]
+}
