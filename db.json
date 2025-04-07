@@ -29,7 +29,7 @@
 			"description":"	Emitator de sunet 1.5g",
 			"price":50,
 			"author_id":1,
-			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/11/petarde-scream-5s-01.jpeg",
+			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/11/petarde-scream-5s-01.jpeg"
 		},
 		{
 			"id":2,
@@ -37,7 +37,7 @@
 			"description":"Emitator de sunet 2g",
 			"price":50,
 			"author_id":1,
-			"photo_url":"https://landoffire.ro/wp-content/uploads/2024/09/IMG_5837.jpg",
+			"photo_url":"https://landoffire.ro/wp-content/uploads/2024/09/IMG_5837.jpg"
 		},
 		{
 			"id":3,
@@ -45,7 +45,7 @@
 			"description":"Emitator de sunet",
 			"price":25,
 			"author_id":1,
-			"photo_url":"https://pyroking.ro/wp-content/uploads/2024/09/vampire-10.png",
+			"photo_url":"https://pyroking.ro/wp-content/uploads/2024/09/vampire-10.png"
 		},
 		{
 			"id":4,
@@ -53,7 +53,7 @@
 			"description":"Emitator de sunet 2g",
 			"price":40,
 			"author_id":1,
-			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/02/FS-5-1.png",
+			"photo_url":"https://artificii-online.ro/wp-content/uploads/2024/02/FS-5-1.png"
 		},
 		{
 			"id":5,
@@ -61,7 +61,7 @@
 			"description":"Emitator de sunet",
 			"price":40,
 			"author_id":1,
-			"photo_url":"https://gomagcdn.ro/domains2/e-artificii.ro/files/product/original/petarde-super-troll-820117.jpg",
-		},
+			"photo_url":"https://gomagcdn.ro/domains2/e-artificii.ro/files/product/original/petarde-super-troll-820117.jpg"
+		}
 	]
 }
